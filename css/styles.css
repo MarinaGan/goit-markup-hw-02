@@ -49,16 +49,100 @@ button{
     line-height: 1.5;
     font-weight: 500;
     font-size: 16px;
+}
+
+.nav-item-link{
     color: #2e2f42;
 }
 
-.nav-item-link{}
+.address-page{}
+
+.address-list{
+    
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.mail-link{ 
+    color: #434455;
+}
+
+.number-link{ 
+    color: #434455;
+}
+
 
 /* Main */
 
+/* 1 section*/
+.first-section{
+    background: #2e2f42;
+    
+}
 
+.title-solutions{
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07143;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+}
+
+.but-o-s{
+    font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
+background: #4d5ae5;
+}
+
+/* 2 section */
+.strategy-sect{}
+
+.strategy-title{}
+
+.strategy-list{}
+
+.strategy-link{}
+
+.strategy-link-title{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.strategy-paragraph{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* 3 section */
+
+/* 3 section */
 
 
 /* Footer */
+.footer-logo{
+    display: flex;
+align-items: center;
+justify-content: flex-start;
+flex-direction: row;
+gap: 0px;
+color: #2e2f42;
+}
 
+.footer-logo-style{
 
+    color: #4d5ae5;
+}
